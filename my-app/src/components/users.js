@@ -3,7 +3,6 @@
 const users = [
 
     {
-        username : 'mm06369',
         firstName: 'Muhammad',
         lastName: 'Murtaza',
         school : 'Nixor',
@@ -12,7 +11,7 @@ const users = [
         profilePicture: 'https://picsum.photos/200/200'
     },
     {
-      username: "jdoe",
+      
       firstName: "John",
       lastName: "Doe",
       school: "Harvard University",
@@ -21,7 +20,7 @@ const users = [
       profilePicture: 'https://picsum.photos/200/200'
     },
     {
-      username: "asmith",
+      
       firstName: "Alice",
       lastName: "Smith",
       school: "Stanford University",
@@ -30,7 +29,7 @@ const users = [
       profilePicture: 'https://picsum.photos/200/200'
     },
     {
-      username: "bchen",
+      
       firstName: "Brian",
       lastName: "Chen",
       school: "Massachusetts Institute of Technology",
@@ -39,7 +38,7 @@ const users = [
       profilePicture: 'https://picsum.photos/200/200'
     },
     {
-      username: "clee",
+      
       firstName: "Catherine",
       lastName: "Lee",
       school: "University of California, Berkeley",
